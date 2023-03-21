@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * main - A programme
+ * print_alphabet - A programme
  * Return: rettu
  */
 void print_alphabet(void)
 {
 char c;
-for (c = 'a'; c <= 'z'; c++)
+for (c='a'; c<='z'; c++)
 {
 _putchar(c);
 }
