@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - A c programme to print
- * Return : 0 (Sucess)
+ * main - A programme that prints
+ * Return: Always 1.
  */
 int main(void)
 {
