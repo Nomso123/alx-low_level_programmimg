@@ -1,8 +1,8 @@
 #include "main.h" 
 /**
- * main - A programme
- * Return: Returns an int
- */
+* main - A programme
+* Return: Returns an int
+*/
 int main(void)
 {
 _putchar('_');
