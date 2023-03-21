@@ -1,5 +1,10 @@
 #include <stdio.h>
-int main(void){
-printf("with proper grammer , but the outcome is a peice of art , 
+/**
+ * main - A c programme to print
+ * Return : 0 (Sucess)
+ */
+int main(void)
+{
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
