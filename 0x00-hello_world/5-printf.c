@@ -1,10 +1,1 @@
-#include <stdio.h>
-/**
- * main - A programme that prints
- * Return: Always 1.
- */
-int main(void)
-{
-printf("with proper grammar, but the outcome is a piece of art,\n");
-return (0);
-}
+#include <unistd.h
