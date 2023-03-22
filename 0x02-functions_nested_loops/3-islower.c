@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - primts lower case
- * @c - parametter 1
+ * @c: parametter 1
  *
  * Return: Either 0  or 1.
  */
